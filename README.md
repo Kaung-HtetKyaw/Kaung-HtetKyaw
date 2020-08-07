@@ -1,7 +1,7 @@
 # Hi I'm Kaung Htet Kyaw 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-Kaung-HtetKyaw-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kaunghtetkyaw02749@gmail.com)](mailto:kaunghtetkyaw02749@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Kaung-HtetKyaw-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/lulinoppakyaw.jgyi)](https://web.facebook.com/lulinoppakyaw.jgyi)
+[![Gmail Badge](https://img.shields.io/badge/-kaunghtetkyaw-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kaunghtetkyaw02749@gmail.com)](mailto:kaunghtetkyaw02749@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-kaunghtetkyaw-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/lulinoppakyaw.jgyi)](https://web.facebook.com/lulinoppakyaw.jgyi)
 
 
 **💼 Currently Learning:** Software Engineering at <a href="https://www.mtu.edu.mm/" target="_blank"><b>Mandalay Technological University</b></a>
