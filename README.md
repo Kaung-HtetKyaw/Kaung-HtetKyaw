@@ -11,8 +11,8 @@
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://vuejs.org/" target="_blank"><img height="50" src="https://vuejs.org/images/logo.png"></a></code>
 <code><a href="https://nuxtjs.org/" target="_blank"><img height="50" src="https://avatars3.githubusercontent.com/u/23360933?s=280&v=4"></a></code>
-<code><a href="https://nuxtjs.org/" target="_blank"><img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNode.js&psig=AOvVaw2TbxyGM6TCeqrI4PemGSYh&ust=1606339993704000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD01_eQnO0CFQAAAAAdAAAAABAD"></a></code>
-<code><a href="https://nuxtjs.org/" target="_blank"><img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fexpressjs.com%2F&psig=AOvVaw3G1KbtD5Dz0cSL9hjM_JiA&ust=1606340054675000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDi6ZSRnO0CFQAAAAAdAAAAABAN"></a></code>
+<code><a href="https://nuxtjs.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a></code>
+<code><a href="https://nuxtjs.org/" target="_blank"><img height="50" src="https://expressjs.com/images/express-facebook-share.png"></a></code>
 
 
 
