@@ -18,8 +18,8 @@
 <div><p>The projects I am currently working on: </p></div>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaung-HtetKyaw&repo=pathfinding-visualizer)](https://github.com/Kaung-HtetKyaw/pathfinding-visualizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaung-HtetKyaw&repo=Techies-proto)](https://github.com/Kaung-HtetKyaw/Techies-proto)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaung-HtetKyaw&repo=MayHem)](https://github.com/Kaung-HtetKyaw/MayHem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaung-HtetKyaw&repo=Nuff)](https://github.com/Kaung-HtetKyaw/Nuff)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaung-HtetKyaw&repo=Algorithm-Javascript-Implementation)](https://github.com/Kaung-HtetKyaw/Algorithm-Javascript-Implementation)
 
 <br />
 
