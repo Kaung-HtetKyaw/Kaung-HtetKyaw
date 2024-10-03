@@ -19,6 +19,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaung-HtetKyaw&repo=pathfinding-visualizer)](https://github.com/Kaung-HtetKyaw/pathfinding-visualizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaung-HtetKyaw&repo=wp-tw-sections)](https://github.com/Kaung-HtetKyaw/wp-tw-sections)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaung-HtetKyaw&repo=editorjs-image-tool-delete)](https://github.com/Kaung-HtetKyaw/editorjs-image-tool-delete)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaung-HtetKyaw&repo=Algorithm-Javascript-Implementation)](https://github.com/Kaung-HtetKyaw/Algorithm-Javascript-Implementation)
 
 <br />
